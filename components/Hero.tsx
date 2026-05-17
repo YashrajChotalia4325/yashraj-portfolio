@@ -51,9 +51,9 @@ export default function Hero() {
             <a
               href="/resume.pdf"
               download
-              className="border border-white/20 hover:border-orange-500 hover:text-orange-400 transition-all duration-300 px-6 md:px-7 py-3 rounded-full font-medium"
+              className="border border-white/20 hover:border-orange-500 transition-all px-6 py-3 rounded-full font-medium"
             >
-            Download Resume
+              Download Resume
             </a>
           </div>
 
